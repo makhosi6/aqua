@@ -1,0 +1,59 @@
+body .one {
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+body .one .two {
+    top: -100%;
+    /* left: 35%;
+        top: 17%;
+        transform: translate(-20% -20%);*/
+    position: absolute;
+    -webkit-transition: 1000;
+    transition: 1000;
+    height: 70vh;
+    width: 70vh;
+    z-index: 1;
+    background-color: black;
+}
+
+body .one .two div {
+    padding: 30px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: relative;
+}
+
+body .one .two div p {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body .bttn {
+    background-color: aqua;
+    border-radius: 18px;
+    width: 120px;
+    color: black;
+    border: 2px solid black;
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    -webkit-transform: translate(-50% -50%);
+    transform: translate(-50% -50%);
+}
+
+body .one .twoo {
+    display: none !important;
+}
+
+
+/*# sourceMappingURL=styleII.css.map */
