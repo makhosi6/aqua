@@ -40,7 +40,8 @@ body {
     width: 0px;
 }
 a{
-   text-decoration: none;
+    text-decoration: none;
+  
 }
 .search-box:hover>.search-txt, .search-txt:focus {
     width: 240px;
