@@ -2,6 +2,13 @@ body {
     background-color: aqua;
     font-family: arial;
 }
+*{
+    transition: all linear .4s !important;
+    -webkit-transition: all linear .4s !important;
+    -moz-transition: all linear .4s !important;
+    -ms-transition: all linear .4s !important;
+    -o-transition: all linear .4s !important;
+}
 .search-box {
     margin: auto;
     max-width: 100%;
@@ -43,7 +50,7 @@ a{
     text-decoration: none;
 }
 .search-box:hover{
-    width: 290px;
+    width: 272px;
 }
 .search-box:hover>.search-txt, .search-txt:focus {
     width: 220px;
