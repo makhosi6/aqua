@@ -1,6 +1,7 @@
 <p align="center">
 <a alt="thumbnail" href="https://makhosandile.me"><img src="./img/interactive aqua searchbar.png" ></a>
 </p>
+
 # aqua 
 interactive aqua searchbar 🤠✔
 
