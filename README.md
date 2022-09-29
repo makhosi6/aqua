@@ -3,7 +3,7 @@
 </p>
 
 # aqua 
-interactive aqua searchbar 🤠✔
+CSS-first interactive Web UI, named, _aqua search_
 
 _Inspired by css-only codepens,_
 *and designed by yours truly*👏
